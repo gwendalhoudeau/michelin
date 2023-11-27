@@ -1,0 +1,21 @@
+
+pour initialiser le repo
+
+git init
+git remote add origin https://github.com/gwendalhoudeau/michelin.git
+git fetch origin
+git add .
+git commit -m "first"
+git pull origin master --allow-unrelated-histories
+git add .
+git commit -m "message de commit"
+git push --set-upstream origin master
+
+
+pour recuperer le projet sur github
+git pull
+
+pour envoyer le projet sur github
+git add .
+git commit -m "message de commit"
+git push
