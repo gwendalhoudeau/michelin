@@ -1,0 +1,10 @@
+
+git init
+
+git remote add origin https://github.com/gwendalhoudeau/michelin.git
+
+git pull origin master --allow-unrelated-histories
+
+git push --set-upstream origin master
+
+git push origin master
