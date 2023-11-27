@@ -1,0 +1,5 @@
+
+git clone https://github.com/gwendalhoudeau/michelin.git
+git init
+
+git remote add origin https://github.com/gwendalhoudeau/michelin.git
